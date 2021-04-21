@@ -3,7 +3,7 @@
 </div>
 
 <div id="ht-tm-jumbotron">
-    <div class="jumbotron bg-info text-white mb-0 radius-0 ht-tm-jumbotron">
+    <div class="jumbotron bg-info  mb-0 radius-0 ht-tm-jumbotron">
         <div class="container">
             <div class="ht-tm-header">
                 <h1 class="display-1 text-light mb-4">¡Lo sentimos!</h1>
